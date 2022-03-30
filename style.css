@@ -10,7 +10,8 @@ body {
 }
 
 .container h2 {
-  margin-top: 25px ;
+  margin-top: 34px;
+  margin-left: 27px;
 }
 
 .banner {
@@ -96,7 +97,10 @@ body {
   }
   
   .card-white {
-    width: auto;
+    width: 285px;
+    padding: 34px;
+    margin: 13px;
+    margin-left: 30px;
   }
 }
   
