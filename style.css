@@ -100,6 +100,13 @@ body {
   }
 }
   
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+  
 /* Container media queries */
 @media (min-width: 500px) {
   .container {
