@@ -97,19 +97,9 @@ body {
   }
   
   .card-white {
-    width: 285px;
-    padding: 34px;
-    margin: 13px;
-    margin-left: 30px;
+    width: auto;
   }
 }
-  
-@media screen and (max-width: 600px) {
-  .cards {
-    width: 100%;
-    display: block;
-    margin-bottom: 20px;
-  }
   
 /* Container media queries */
 @media (min-width: 500px) {
