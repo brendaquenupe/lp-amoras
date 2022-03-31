@@ -119,3 +119,28 @@ body {
     width: 800px;
   }
 }
+
+// Smallest device
+@media (min-width: 100px) and (max-width: 575px) {
+  // CSS for this breakpoint
+}
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) {
+   // CSS for this breakpoint
+}
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {
+   // CSS for this breakpoint
+}
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {
+   // CSS for this breakpoint
+}
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {
+   // CSS for this breakpoint
+}
