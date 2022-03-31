@@ -90,7 +90,7 @@ body {
 }
 
 /* Cards media queries */
-@media (max-width: 800px) {
+@media (min-width: 100px) and (max-width: 575px) {
   .cards {
     grid-template-columns: 1fr;
   }
